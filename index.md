@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Welcome Amitoj Singh's Website
 
 You can use the [editor on GitHub](https://github.com/2014006-2002/Amitoj-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
